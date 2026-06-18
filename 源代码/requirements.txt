@@ -1,0 +1,4 @@
+pyqt5>=5.15
+zstandard>=0.15
+fpdf2>=2.7
+python-docx>=0.8
